@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
 
         //this is test
         //what are you doing
-        //nomi gandu hai
+
     }
 }
